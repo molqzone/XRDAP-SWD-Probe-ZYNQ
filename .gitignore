@@ -1,5 +1,6 @@
 # Build and simulation directories
-prj/
+prj/*
+!prj/waveform/
 
 # IDE and editor files
 .vscode/
