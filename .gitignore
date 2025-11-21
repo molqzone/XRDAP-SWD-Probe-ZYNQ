@@ -1,0 +1,30 @@
+# Build and simulation directories
+prj/
+
+# IDE and editor files
+.vscode/
+.claude/
+
+# Synthesis and simulation temporary files
+*.log
+*.out
+*.wlf
+*.vcd
+*.bin
+*.bit
+*.mcs
+*.flash
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
